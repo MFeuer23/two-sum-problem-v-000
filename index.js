@@ -11,5 +11,5 @@ function bruteForceTwoSum (array, sum) {
 }
 
 function binarySearchTwoSum (array, sum) {
-  return array.sort()
+  array.sort()
 }
